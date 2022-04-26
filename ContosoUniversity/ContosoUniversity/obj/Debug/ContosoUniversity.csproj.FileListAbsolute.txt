@@ -1,0 +1,165 @@
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe.config
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.rsp
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe.config
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.rsp
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.AppContext.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Console.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Http.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.ValueTuple.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe.config
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.rsp
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\Rajiv Vaghela\source\repos\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe.config
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.rsp
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.exe.config
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\csi.rsp
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.AppContext.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Console.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Globalization.Calendars.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Http.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Net.Sockets.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.ValueTuple.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe.config
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.rsp
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CoreCompileInputs.cache
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+E:\Web technology specialist\C# and dot NET\Assignments\Contoso University\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.AssemblyReference.cache
